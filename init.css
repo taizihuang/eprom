@@ -97,7 +97,9 @@ a {
     max-width: 100%;
 }
 
-
+a, .SAY, .p, .REPLY {
+word-wrap: break-word;
+}
 
 #myImg {
     margin: auto;
